@@ -1,4 +1,4 @@
-# Listen-and-repeat-
+# Listen-and-repeat
 Python library:
 gTTS
 speech recognition
